@@ -4,7 +4,7 @@ In this Project we will be going over the Lending Club Loan Data where the data 
 
 ## Imbalanced Class problem
 
-Since we are trying to predict if a loan would Default or Not we have to deal with an imbalanced class problem. Class one only accounts for 0.07% of the data. We Used SMOTE to generate random samples for our minority class.
+Since we are trying to predict if a loan would Default or Not we have to deal with an imbalanced class problem. Class one(minority class) only accounts for 0.07% of the data. We Used SMOTE to generate random samples for our minority class.
 
 
 ## Modeling
