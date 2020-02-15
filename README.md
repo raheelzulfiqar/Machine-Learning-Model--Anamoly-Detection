@@ -1,6 +1,6 @@
 ## Project Specifications
 
-In this Project we will be going over the Lending Club Loan Data where the data is imbalanced, big and has multiple features with different data types. For the purpose of modelling, we will be taking all default loans as the target variable and will  try to predict if a loan will default or not.
+In this Project i will be going over the Lending Club Loan Data where the data is imbalanced, big and has multiple features with different data types. For the purpose of modelling, i will be taking all default loans as the target variable and will  try to predict if a loan will default or not.
 
 ## Imbalanced Class problem
 
